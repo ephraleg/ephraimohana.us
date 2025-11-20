@@ -1,0 +1,37 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Watermark background ONLY for layout--home (blog pages) */
+body.layout--home .initial-content {
+  position: relative;
+}
+
+body.layout--home .initial-content::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+  width: 35%;
+  height: 70%;
+  background-image: url('/assets/images/background-logo.png');
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: contain;
+  opacity: 0.25;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Ensure NO watermark on single layout pages (home, about, etc) */
+body.layout--single .initial-content::before {
+  display: none !important;
+}
+
+/* Make home page feature row images more transparent */
+.feature__item img {
+  opacity: 0.25;
+}

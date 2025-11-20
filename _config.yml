@@ -1,0 +1,60 @@
+title: "Ephraim Ohana"
+name: "Ephraim Ohana"
+description: "AI Governance, Cybersecurity, Compliance and Ethics in AI"
+url: "https://ephraimohana.us"
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "default"
+
+author:
+  name: "Ephraim Ohana"
+  bio: "AI Governance<br/>Cybersecurity<br/>Ethics & Compliance"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ephraimohana/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/ephraimohana"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/ephraimohana"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@ephraimohana"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ephraimohana"
+    - label: "TikTok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://tiktok.com/@ephraimohana"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ephraimohana/"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/ephraimohana"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      classes: blog-post
+
+paginate: 5
+paginate_path: /page:num/
+
+include:
+  - _pages
