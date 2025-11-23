@@ -1,7 +1,8 @@
 ---
 layout: splash
-title: "Ephraim Ohana | AI Governance & Cybersecurity Expert | New York"
-excerpt: "Ephraim Ohana specializes in AI Governance, Cybersecurity, AI Compliance, and Data Privacy. Expert consultant based in New York with 20+ years experience in technology security and AI ethics."
+title: "Ephraim Ohana | AI Governance & Cybersecurity Expert"
+
+excerpt: "Ephraim Ohana specializes in AI Governance, Cybersecurity, AI Compliance, and Data Privacy with expertise in technology and security integration, and AI ethics and Compliance."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

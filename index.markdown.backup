@@ -1,5 +1,7 @@
 ---
 layout: splash
+title: "Ephraim Ohana | AI Governance & Cybersecurity Expert | New York"
+excerpt: "Ephraim Ohana specializes in AI Governance, Cybersecurity, AI Compliance, and Data Privacy, with expertise in technology and security integration | Compliance and AI ethics."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -7,25 +9,179 @@ header:
   actions:
     - label: "View Blog"
       url: "/posts/"
-  caption: "AI Governance | Cybersecurity | Ethics & Compliance"
-excerpt: "Professional portfolio and insights on the intersection of technology, automation and security, towards ethical responsibility and compliance."
+    - label: "Connect on LinkedIn"
+      url: "https://www.linkedin.com/in/ephraimohana"
+  caption: "AI Governance | Cybersecurity | AI Compliance | Data Privacy"
+seo:
+  type: Person
+  name: "Ephraim Ohana"
+  links:
+    - https://www.linkedin.com/in/ephraimohana
+    - https://x.com/ephraimohana
+    - https://facebook.com/ephraimohana
 intro: 
-  - excerpt: 'Specializing in AI Governance, Cybersecurity, Compliance, and Ethics in AI'
+  - excerpt: 'Ephraim Ohana is a recognized AI Governance and Cybersecurity expert with over two decades of experience in technology security, AI compliance, and data privacy. Based in New York, Ephraim specializes in developing AI governance frameworks for responsible artificial intelligence implementation.'
 feature_row:
   - image_path: /assets/images/background-logo.png
-    alt: "AI Governance"
+    alt: "Ephraim Ohana AI Governance Expert - Developing AI Policy Frameworks"
     title: "AI Governance"
-    excerpt: "Developing frameworks and policies for responsible AI implementation"
+    excerpt: "Ephraim Ohana develops comprehensive AI governance frameworks and policies for responsible AI implementation across healthcare and enterprise organizations."
+    url: "/posts/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/background-logo.png
-    alt: "Cybersecurity"
+    alt: "Ephraim Ohana Cybersecurity Expert - Enterprise Security Architecture"
     title: "Cybersecurity"
-    excerpt: "Protecting systems and data in an increasingly connected world"
+    excerpt: "Ephraim Ohana designs robust cybersecurity architectures protecting systems and data in increasingly connected environments for healthcare and enterprise."
+    url: "/posts/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/background-logo.png
-    alt: "Ethics in AI"
-    title: "Ethics & Compliance"
-    excerpt: "Advocating for ethical considerations in AI development and deployment"
+    alt: "Ephraim Ohana AI Ethics and Compliance Expert"
+    title: "AI Ethics & Compliance"
+    excerpt: "Ephraim Ohana advocates for ethical AI development and ensures compliance with data privacy regulations and AI safety standards."
+    url: "/posts/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ephraim Ohana",
+  "url": "https://ephraimohana.us",
+  "image": "https://ephraimohana.us/assets/images/bio-photo.jpg",
+  "jobTitle": "AI Governance & Cybersecurity Expert",
+  "description": "Ephraim Ohana is an AI Governance and Cybersecurity expert specializing in AI compliance, data privacy, and technology security with over 20 years of experience.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "New York",
+    "addressRegion": "NY",
+    "addressCountry": "US"
+  },
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "University of Baltimore School of Law",
+      "sameAs": "https://www.ubalt.edu/",
+      "url": "https://law.ubalt.edu/"
+    }
+  ],
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "degree",
+      "name": "Juris Doctorate (JD)",
+      "educationalLevel": "Graduate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "University of Baltimore School of Law"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "degree",
+      "name": "Master of Business Administration (MBA)",
+      "educationalLevel": "Graduate"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "degree",
+      "name": "Master of Science in Information Technology",
+      "educationalLevel": "Graduate"
+    }
+  ],
+  "knowsAbout": [
+    "AI Governance",
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Information Security",
+    "AI Compliance",
+    "Data Privacy",
+    "AI Ethics",
+    "HIPAA Compliance",
+    "Security Architecture",
+    "Risk Management",
+    "Technology Policy",
+    "AI Risk Management",
+    "Machine Learning Security"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "AI Governance Expert",
+    "occupationLocation": {
+      "@type": "City",
+      "name": "New York"
+    },
+    "skills": [
+      "AI Governance",
+      "Cybersecurity",
+      "AI Compliance",
+      "Data Privacy",
+      "Information Security Management"
+    ]
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/ephraimohana",
+    "https://x.com/ephraimohana",
+    "https://facebook.com/ephraimohana",
+    "https://instagram.com/ephraimohana",
+    "https://youtube.com/@ephraimohana",
+    "https://github.com/ephraleg"
+  ]
+}
+</script>
 
 {% include feature_row id="intro" type="center" %}
 
+## About Ephraim Ohana - AI Governance & Cybersecurity Expert
+
+**Ephraim Ohana** is a leading expert in **AI Governance**, **Cybersecurity**, and **AI Compliance** based in **New York**. With years of experience navigating the complex intersection of artificial intelligence, technology security, and ethics, Ephraim Ohana brings unique multidisciplinary expertise to AI policy, data privacy, and enterprise security frameworks.
+
+
+### AI Governance & Cybersecurity Leadership
+
+Throughout his distinguished career, **Ephraim Ohana** has led transformative security and AI governance initiatives at premier institutions including Columbia University, NYC Health + Hospitals, Healthfirst, Norwalk Hospital, and Children's National Health System.
+
+Ephraim Ohana has successfully managed cybersecurity and compliance programs for organizations ranging from 3,00 to 60,000 employees, demonstrating expertise in scaling AI governance and security frameworks across diverse organizational contexts.
+
+### Core Areas of Expertise
+
+**Ephraim Ohana** specializes in:
+
+- **AI Governance & Policy** - Developing comprehensive frameworks for responsible AI deployment
+- **Enterprise Cybersecurity** - Designing security architectures for complex organizations
+- **AI Compliance & Data Privacy** - Ensuring regulatory adherence including GDPR, CCPA, HIPAA
+- **Technology Strategy** - Bridging technical security with business objectives
+
+### Thought Leadership in AI & Cybersecurity
+
+Ephraim Ohana regularly shares expert insights on AI safety, regulatory landscape, healthcare cybersecurity, data privacy in machine learning, and ethical AI frameworks.
+
+[Read Latest Articles](/posts/){: .btn .btn--primary .btn--large} [Connect on LinkedIn](https://www.linkedin.com/in/ephraimohana){: .btn .btn--info .btn--large}
+
+### Professional Philosophy
+
+Ephraim Ohana believes that effective AI governance and cybersecurity require a holistic approach combining technical expertise, legal understanding, ethical reasoning, and business acumen. His work focuses on developing practical, implementable frameworks that enable organizations to harness artificial intelligence's transformative potential while proactively managing risks.
+
+### Professional Background & Credentials
+
+Ephraim Ohana holds three advanced degrees from the University of Baltimore:
+- **Juris Doctorate (JD)** - University of Baltimore School of Law
+- **Master of Business Administration (MBA)** - Business Strategy & Management
+- **Master of Science in Information Technology (MS-IT)** - Technology & Security
+
+This unique combination enables Ephraim Ohana to bridge the critical gap between technology, business objectives, and legal compliance in the rapidly evolving landscape of artificial intelligence and cybersecurity.
+
+### Get in Touch
+
+Connect with Ephraim Ohana to discuss AI governance, cybersecurity strategy, or compliance challenges:
+
+[LinkedIn](https://www.linkedin.com/in/ephraimohana){: .btn .btn--linkedin} [Twitter/X](https://x.com/ephraimohana){: .btn .btn--twitter} [Blog](/posts/){: .btn .btn--primary}
+
 {% include feature_row %}
+
+---
+
+*Ephraim Ohana | AI Governance Expert | Cybersecurity Consultant *
